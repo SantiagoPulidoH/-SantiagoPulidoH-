@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/user-attachments/assets/784c8e0f-8890-4674-be75-fddfa3f1843b)
+![Banner](https://github.com/user-attachments/assets/337f8fad-61c8-47e0-bdea-7132b9166bf8)
 
 # -SantiagoPulidoH-
 

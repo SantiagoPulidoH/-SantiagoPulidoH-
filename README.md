@@ -1,6 +1,4 @@
 
-![Banner](https://github.com/user-attachments/assets/337f8fad-61c8-47e0-bdea-7132b9166bf8)
-
 # -SantiagoPulidoH-
 
 # 👋 Hi, I’m **Santiago Pulido Hurtado**

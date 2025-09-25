@@ -1,3 +1,6 @@
+
+![Banner](https://github.com/user-attachments/assets/9a1784c7-310c-45c0-a9ea-ac2bec402654)
+
 # -SantiagoPulidoH-
 
 # 👋 Hi, I’m **Santiago Pulido Hurtado**
@@ -42,19 +45,19 @@ Curious and detail-oriented data practitioner. I believe every dataset tells a s
 Dataset: ~16,700 global sales records (2010–2016).  
 Stack: Python (Pandas, NumPy), SQL, EDA, hypothesis testing, visualisation.  
 **Result:** Identified the most profitable genres (Action/Shooter/Sports), regional differences (NA/EU vs JP), and the positive impact of critic reviews on sales.  
-🔗 Repo/Notebook: `<https://github.com/SantiagoPulidoH/Ventas-VideoJuegos-2016.git>`
+🔗 Repo/Notebook: `https://github.com/SantiagoPulidoH/Ventas-VideoJuegos-2016.git`
 
 **Taxi Demand Forecasting (Sweet Lift Taxi) — TripleTen (2025)**  
 Dataset: ~4,400 hourly order entries (2018).  
 Stack: time-series EDA, resampling, seasonal decomposition; models: Linear Regression, Random Forest, **LightGBM**.  
 **Result:** Best model **LightGBM** with test **RMSE ≈ 39.6**, meeting the project goal (<48); supports driver allocation in peak hours.  
-🔗 Repo/Notebook: `<https://github.com/SantiagoPulidoH/Prediccion-Pedidos-Taxi-2018.git>`
+🔗 Repo/Notebook: `https://github.com/SantiagoPulidoH/Prediccion-Pedidos-Taxi-2018.git`
 
 **Gold Recovery Prediction in Mining (Zyfra) — TripleTen (2025)**  
 Dataset: >16,000 industrial process rows (Au/Ag/Pb across stages).  
 Stack: data cleaning, feature selection, cross-validation; models: Linear Regression & Random Forest; custom metric **sMAPE**.  
 **Result:** Final model (Linear Regression) achieved **sMAPE ≈ 9.21**; insights on stage-wise metal concentrations to optimise recovery.  
-🔗 Repo/Notebook: `<https://github.com/SantiagoPulidoH/Prediccion-Recuperacion-Zyfra.git>`
+🔗 Repo/Notebook: `https://github.com/SantiagoPulidoH/Prediccion-Recuperacion-Zyfra.git`
 
 ---
 
@@ -64,7 +67,4 @@ Stack: data cleaning, feature selection, cross-validation; models: Linear Regres
 
 ---
 
-### 📊 GitHub stats (optional)
-![GitHub Streak](https://streak-stats.demolab.com?user=<YOUR_GITHUB_USERNAME>&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&hide=html,css)
+

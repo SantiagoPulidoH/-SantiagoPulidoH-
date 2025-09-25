@@ -1,6 +1,3 @@
-
-# -SantiagoPulidoH-
-
 # 👋 Hi, I’m **Santiago Pulido Hurtado**
 
 **Junior Data Scientist · Industrial Engineer**  
